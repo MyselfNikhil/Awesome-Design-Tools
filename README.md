@@ -674,6 +674,14 @@ You can also handle icons with Specify, which is mentioned in the [Design System
 
 <article id="illustrations">
 
+<article id="image-editing">
+
+## Image Editing Tools
+
+- [Pahadify](https://thepahadify.com/) - An ultra fast privacy-focused client-side image editor that runs entirely private.
+
+</article>
+
 ### Illustrations
 
 <!-- <div class="hidden-in-page">
